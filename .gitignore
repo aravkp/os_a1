@@ -1,0 +1,8 @@
+# Build output
+build/
+library_sched
+
+# Course handout (not part of the submission)
+*.pdf
+
+.DS_Store
